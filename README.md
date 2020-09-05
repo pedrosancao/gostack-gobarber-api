@@ -1,10 +1,10 @@
-# Express + TypeScript template
+# GoBarber API
 
-A boilerplate for Express with TypeScript. Include ESLint, Prettier and
-configurations for Visual Studio Code for debug, tab size, and format on save.
+API for GoBarber project from Rocketseat's GoStack Online Bootcamp. Using
+Node.js, Express, TypeScript and PostgreSQL on Docker.
 
-Uses [yarn][yarn] as package manager and [ts-node-dev][ts-node-dev] for
-running and watching for changes.
+It's an app for clients to make appointments on barber shops. Available on
+web, Android and iOS with React.
 
 ## Available commands
 
@@ -18,8 +18,6 @@ running and watching for changes.
 
 ## License
 
-This template is released under MIT License. See [LICENSE](./LICENSE) file.
+This project is released under MIT License. See [LICENSE](./LICENSE) file.
 
-[yarn]: https://yarnpkg.com/
-[ts-node-dev]: https://www.npmjs.com/package/ts-node-dev
 [master-replace]: https://www.bbc.com/news/technology-53050955
